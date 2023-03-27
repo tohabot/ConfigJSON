@@ -1,0 +1,28 @@
+{
+    "tiles": [
+        {
+            "type": 1,
+            "xpos": 0,
+            "ypos": 1,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 1,
+            "ypos": 1,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 3,
+            "ypos": 4,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 0,
+            "ypos": 4,
+            "rot": 4
+        }
+    ]
+}
