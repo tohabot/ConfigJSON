@@ -3,25 +3,3751 @@
         {
             "type": 1,
             "xpos": 0,
-            "ypos": 1,
+            "ypos": 0,
             "rot": 3
         },
         {
             "type": 2,
-            "xpos": 1,
+            "xpos": 0,
+            "ypos": 1,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 0,
+            "ypos": 2,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 0,
             "ypos": 3,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 0,
+            "ypos": 4,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 0,
+            "ypos": 5,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 0,
+            "ypos": 6,
             "rot": 3
         },
         {
+            "type": 0,
+            "xpos": 0,
+            "ypos": 7,
+            "rot": 0
+        },
+        {
             "type": 1,
-            "xpos": 3,
-            "ypos": 4,
+            "xpos": 0,
+            "ypos": 8,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 0,
+            "ypos": 9,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 0,
+            "ypos": 10,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 0,
+            "ypos": 11,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 0,
+            "ypos": 12,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 0,
+            "ypos": 13,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 0,
+            "ypos": 14,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 0,
+            "ypos": 15,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 0,
+            "ypos": 16,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 0,
+            "ypos": 17,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 0,
+            "ypos": 18,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 0,
+            "ypos": 19,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 0,
+            "ypos": 20,
             "rot": 3
         },
         {
             "type": 3,
             "xpos": 0,
+            "ypos": 21,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 0,
+            "ypos": 22,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 0,
+            "ypos": 23,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 0,
+            "ypos": 24,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 1,
+            "ypos": 0,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 1,
+            "ypos": 1,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 1,
+            "ypos": 2,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 1,
+            "ypos": 3,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 1,
+            "ypos": 4,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 1,
+            "ypos": 5,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 1,
+            "ypos": 6,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 1,
+            "ypos": 7,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 1,
             "ypos": 8,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 1,
+            "ypos": 9,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 1,
+            "ypos": 10,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 1,
+            "ypos": 11,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 1,
+            "ypos": 12,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 1,
+            "ypos": 13,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 1,
+            "ypos": 14,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 1,
+            "ypos": 15,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 1,
+            "ypos": 16,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 1,
+            "ypos": 17,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 1,
+            "ypos": 18,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 1,
+            "ypos": 19,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 1,
+            "ypos": 20,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 1,
+            "ypos": 21,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 1,
+            "ypos": 22,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 1,
+            "ypos": 23,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 1,
+            "ypos": 24,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 2,
+            "ypos": 0,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 2,
+            "ypos": 1,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 2,
+            "ypos": 2,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 2,
+            "ypos": 3,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 2,
+            "ypos": 4,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 2,
+            "ypos": 5,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 2,
+            "ypos": 6,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 2,
+            "ypos": 7,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 2,
+            "ypos": 8,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 2,
+            "ypos": 9,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 2,
+            "ypos": 10,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 2,
+            "ypos": 11,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 2,
+            "ypos": 12,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 2,
+            "ypos": 13,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 2,
+            "ypos": 14,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 2,
+            "ypos": 15,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 2,
+            "ypos": 16,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 2,
+            "ypos": 17,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 2,
+            "ypos": 18,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 2,
+            "ypos": 19,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 2,
+            "ypos": 20,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 2,
+            "ypos": 21,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 2,
+            "ypos": 22,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 2,
+            "ypos": 23,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 2,
+            "ypos": 24,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 3,
+            "ypos": 0,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 3,
+            "ypos": 1,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 3,
+            "ypos": 2,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 3,
+            "ypos": 3,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 3,
+            "ypos": 4,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 3,
+            "ypos": 5,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 3,
+            "ypos": 6,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 3,
+            "ypos": 7,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 3,
+            "ypos": 8,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 3,
+            "ypos": 9,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 3,
+            "ypos": 10,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 3,
+            "ypos": 11,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 3,
+            "ypos": 12,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 3,
+            "ypos": 13,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 3,
+            "ypos": 14,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 3,
+            "ypos": 15,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 3,
+            "ypos": 16,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 3,
+            "ypos": 17,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 3,
+            "ypos": 18,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 3,
+            "ypos": 19,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 3,
+            "ypos": 20,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 3,
+            "ypos": 21,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 3,
+            "ypos": 22,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 3,
+            "ypos": 23,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 3,
+            "ypos": 24,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 4,
+            "ypos": 0,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 4,
+            "ypos": 1,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 4,
+            "ypos": 2,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 4,
+            "ypos": 3,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 4,
+            "ypos": 4,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 4,
+            "ypos": 5,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 4,
+            "ypos": 6,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 4,
+            "ypos": 7,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 4,
+            "ypos": 8,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 4,
+            "ypos": 9,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 4,
+            "ypos": 10,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 4,
+            "ypos": 11,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 4,
+            "ypos": 12,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 4,
+            "ypos": 13,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 4,
+            "ypos": 14,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 4,
+            "ypos": 15,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 4,
+            "ypos": 16,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 4,
+            "ypos": 17,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 4,
+            "ypos": 18,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 4,
+            "ypos": 19,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 4,
+            "ypos": 20,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 4,
+            "ypos": 21,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 4,
+            "ypos": 22,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 4,
+            "ypos": 23,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 4,
+            "ypos": 24,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 5,
+            "ypos": 0,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 5,
+            "ypos": 1,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 5,
+            "ypos": 2,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 5,
+            "ypos": 3,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 5,
+            "ypos": 4,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 5,
+            "ypos": 5,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 5,
+            "ypos": 6,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 5,
+            "ypos": 7,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 5,
+            "ypos": 8,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 5,
+            "ypos": 9,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 5,
+            "ypos": 10,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 5,
+            "ypos": 11,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 5,
+            "ypos": 12,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 5,
+            "ypos": 13,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 5,
+            "ypos": 14,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 5,
+            "ypos": 15,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 5,
+            "ypos": 16,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 5,
+            "ypos": 17,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 5,
+            "ypos": 18,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 5,
+            "ypos": 19,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 5,
+            "ypos": 20,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 5,
+            "ypos": 21,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 5,
+            "ypos": 22,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 5,
+            "ypos": 23,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 5,
+            "ypos": 24,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 6,
+            "ypos": 0,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 6,
+            "ypos": 1,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 6,
+            "ypos": 2,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 6,
+            "ypos": 3,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 6,
+            "ypos": 4,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 6,
+            "ypos": 5,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 6,
+            "ypos": 6,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 6,
+            "ypos": 7,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 6,
+            "ypos": 8,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 6,
+            "ypos": 9,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 6,
+            "ypos": 10,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 6,
+            "ypos": 11,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 6,
+            "ypos": 12,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 6,
+            "ypos": 13,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 6,
+            "ypos": 14,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 6,
+            "ypos": 15,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 6,
+            "ypos": 16,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 6,
+            "ypos": 17,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 6,
+            "ypos": 18,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 6,
+            "ypos": 19,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 6,
+            "ypos": 20,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 6,
+            "ypos": 21,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 6,
+            "ypos": 22,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 6,
+            "ypos": 23,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 6,
+            "ypos": 24,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 7,
+            "ypos": 0,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 7,
+            "ypos": 1,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 7,
+            "ypos": 2,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 7,
+            "ypos": 3,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 7,
+            "ypos": 4,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 7,
+            "ypos": 5,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 7,
+            "ypos": 6,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 7,
+            "ypos": 7,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 7,
+            "ypos": 8,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 7,
+            "ypos": 9,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 7,
+            "ypos": 10,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 7,
+            "ypos": 11,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 7,
+            "ypos": 12,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 7,
+            "ypos": 13,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 7,
+            "ypos": 14,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 7,
+            "ypos": 15,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 7,
+            "ypos": 16,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 7,
+            "ypos": 17,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 7,
+            "ypos": 18,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 7,
+            "ypos": 19,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 7,
+            "ypos": 20,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 7,
+            "ypos": 21,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 7,
+            "ypos": 22,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 7,
+            "ypos": 23,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 7,
+            "ypos": 24,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 8,
+            "ypos": 0,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 8,
+            "ypos": 1,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 8,
+            "ypos": 2,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 8,
+            "ypos": 3,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 8,
+            "ypos": 4,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 8,
+            "ypos": 5,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 8,
+            "ypos": 6,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 8,
+            "ypos": 7,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 8,
+            "ypos": 8,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 8,
+            "ypos": 9,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 8,
+            "ypos": 10,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 8,
+            "ypos": 11,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 8,
+            "ypos": 12,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 8,
+            "ypos": 13,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 8,
+            "ypos": 14,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 8,
+            "ypos": 15,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 8,
+            "ypos": 16,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 8,
+            "ypos": 17,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 8,
+            "ypos": 18,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 8,
+            "ypos": 19,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 8,
+            "ypos": 20,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 8,
+            "ypos": 21,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 8,
+            "ypos": 22,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 8,
+            "ypos": 23,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 8,
+            "ypos": 24,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 9,
+            "ypos": 0,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 9,
+            "ypos": 1,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 9,
+            "ypos": 2,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 9,
+            "ypos": 3,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 9,
+            "ypos": 4,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 9,
+            "ypos": 5,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 9,
+            "ypos": 6,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 9,
+            "ypos": 7,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 9,
+            "ypos": 8,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 9,
+            "ypos": 9,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 9,
+            "ypos": 10,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 9,
+            "ypos": 11,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 9,
+            "ypos": 12,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 9,
+            "ypos": 13,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 9,
+            "ypos": 14,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 9,
+            "ypos": 15,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 9,
+            "ypos": 16,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 9,
+            "ypos": 17,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 9,
+            "ypos": 18,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 9,
+            "ypos": 19,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 9,
+            "ypos": 20,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 9,
+            "ypos": 21,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 9,
+            "ypos": 22,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 9,
+            "ypos": 23,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 9,
+            "ypos": 24,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 10,
+            "ypos": 0,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 10,
+            "ypos": 1,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 10,
+            "ypos": 2,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 10,
+            "ypos": 3,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 10,
+            "ypos": 4,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 10,
+            "ypos": 5,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 10,
+            "ypos": 6,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 10,
+            "ypos": 7,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 10,
+            "ypos": 8,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 10,
+            "ypos": 9,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 10,
+            "ypos": 10,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 10,
+            "ypos": 11,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 10,
+            "ypos": 12,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 10,
+            "ypos": 13,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 10,
+            "ypos": 14,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 10,
+            "ypos": 15,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 10,
+            "ypos": 16,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 10,
+            "ypos": 17,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 10,
+            "ypos": 18,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 10,
+            "ypos": 19,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 10,
+            "ypos": 20,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 10,
+            "ypos": 21,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 10,
+            "ypos": 22,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 10,
+            "ypos": 23,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 10,
+            "ypos": 24,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 11,
+            "ypos": 0,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 11,
+            "ypos": 1,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 11,
+            "ypos": 2,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 11,
+            "ypos": 3,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 11,
+            "ypos": 4,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 11,
+            "ypos": 5,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 11,
+            "ypos": 6,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 11,
+            "ypos": 7,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 11,
+            "ypos": 8,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 11,
+            "ypos": 9,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 11,
+            "ypos": 10,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 11,
+            "ypos": 11,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 11,
+            "ypos": 12,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 11,
+            "ypos": 13,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 11,
+            "ypos": 14,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 11,
+            "ypos": 15,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 11,
+            "ypos": 16,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 11,
+            "ypos": 17,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 11,
+            "ypos": 18,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 11,
+            "ypos": 19,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 11,
+            "ypos": 20,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 11,
+            "ypos": 21,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 11,
+            "ypos": 22,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 11,
+            "ypos": 23,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 11,
+            "ypos": 24,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 12,
+            "ypos": 0,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 12,
+            "ypos": 1,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 12,
+            "ypos": 2,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 12,
+            "ypos": 3,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 12,
+            "ypos": 4,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 12,
+            "ypos": 5,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 12,
+            "ypos": 6,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 12,
+            "ypos": 7,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 12,
+            "ypos": 8,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 12,
+            "ypos": 9,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 12,
+            "ypos": 10,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 12,
+            "ypos": 11,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 12,
+            "ypos": 12,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 12,
+            "ypos": 13,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 12,
+            "ypos": 14,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 12,
+            "ypos": 15,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 12,
+            "ypos": 16,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 12,
+            "ypos": 17,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 12,
+            "ypos": 18,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 12,
+            "ypos": 19,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 12,
+            "ypos": 20,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 12,
+            "ypos": 21,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 12,
+            "ypos": 22,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 12,
+            "ypos": 23,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 12,
+            "ypos": 24,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 13,
+            "ypos": 0,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 13,
+            "ypos": 1,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 13,
+            "ypos": 2,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 13,
+            "ypos": 3,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 13,
+            "ypos": 4,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 13,
+            "ypos": 5,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 13,
+            "ypos": 6,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 13,
+            "ypos": 7,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 13,
+            "ypos": 8,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 13,
+            "ypos": 9,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 13,
+            "ypos": 10,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 13,
+            "ypos": 11,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 13,
+            "ypos": 12,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 13,
+            "ypos": 13,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 13,
+            "ypos": 14,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 13,
+            "ypos": 15,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 13,
+            "ypos": 16,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 13,
+            "ypos": 17,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 13,
+            "ypos": 18,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 13,
+            "ypos": 19,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 13,
+            "ypos": 20,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 13,
+            "ypos": 21,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 13,
+            "ypos": 22,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 13,
+            "ypos": 23,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 13,
+            "ypos": 24,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 14,
+            "ypos": 0,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 14,
+            "ypos": 1,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 14,
+            "ypos": 2,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 14,
+            "ypos": 3,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 14,
+            "ypos": 4,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 14,
+            "ypos": 5,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 14,
+            "ypos": 6,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 14,
+            "ypos": 7,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 14,
+            "ypos": 8,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 14,
+            "ypos": 9,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 14,
+            "ypos": 10,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 14,
+            "ypos": 11,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 14,
+            "ypos": 12,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 14,
+            "ypos": 13,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 14,
+            "ypos": 14,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 14,
+            "ypos": 15,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 14,
+            "ypos": 16,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 14,
+            "ypos": 17,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 14,
+            "ypos": 18,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 14,
+            "ypos": 19,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 14,
+            "ypos": 20,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 14,
+            "ypos": 21,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 14,
+            "ypos": 22,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 14,
+            "ypos": 23,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 14,
+            "ypos": 24,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 15,
+            "ypos": 0,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 15,
+            "ypos": 1,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 15,
+            "ypos": 2,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 15,
+            "ypos": 3,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 15,
+            "ypos": 4,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 15,
+            "ypos": 5,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 15,
+            "ypos": 6,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 15,
+            "ypos": 7,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 15,
+            "ypos": 8,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 15,
+            "ypos": 9,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 15,
+            "ypos": 10,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 15,
+            "ypos": 11,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 15,
+            "ypos": 12,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 15,
+            "ypos": 13,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 15,
+            "ypos": 14,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 15,
+            "ypos": 15,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 15,
+            "ypos": 16,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 15,
+            "ypos": 17,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 15,
+            "ypos": 18,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 15,
+            "ypos": 19,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 15,
+            "ypos": 20,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 15,
+            "ypos": 21,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 15,
+            "ypos": 22,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 15,
+            "ypos": 23,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 15,
+            "ypos": 24,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 16,
+            "ypos": 0,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 16,
+            "ypos": 1,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 16,
+            "ypos": 2,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 16,
+            "ypos": 3,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 16,
+            "ypos": 4,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 16,
+            "ypos": 5,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 16,
+            "ypos": 6,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 16,
+            "ypos": 7,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 16,
+            "ypos": 8,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 16,
+            "ypos": 9,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 16,
+            "ypos": 10,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 16,
+            "ypos": 11,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 16,
+            "ypos": 12,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 16,
+            "ypos": 13,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 16,
+            "ypos": 14,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 16,
+            "ypos": 15,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 16,
+            "ypos": 16,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 16,
+            "ypos": 17,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 16,
+            "ypos": 18,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 16,
+            "ypos": 19,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 16,
+            "ypos": 20,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 16,
+            "ypos": 21,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 16,
+            "ypos": 22,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 16,
+            "ypos": 23,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 16,
+            "ypos": 24,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 17,
+            "ypos": 0,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 17,
+            "ypos": 1,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 17,
+            "ypos": 2,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 17,
+            "ypos": 3,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 17,
+            "ypos": 4,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 17,
+            "ypos": 5,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 17,
+            "ypos": 6,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 17,
+            "ypos": 7,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 17,
+            "ypos": 8,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 17,
+            "ypos": 9,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 17,
+            "ypos": 10,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 17,
+            "ypos": 11,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 17,
+            "ypos": 12,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 17,
+            "ypos": 13,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 17,
+            "ypos": 14,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 17,
+            "ypos": 15,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 17,
+            "ypos": 16,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 17,
+            "ypos": 17,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 17,
+            "ypos": 18,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 17,
+            "ypos": 19,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 17,
+            "ypos": 20,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 17,
+            "ypos": 21,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 17,
+            "ypos": 22,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 17,
+            "ypos": 23,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 17,
+            "ypos": 24,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 18,
+            "ypos": 0,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 18,
+            "ypos": 1,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 18,
+            "ypos": 2,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 18,
+            "ypos": 3,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 18,
+            "ypos": 4,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 18,
+            "ypos": 5,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 18,
+            "ypos": 6,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 18,
+            "ypos": 7,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 18,
+            "ypos": 8,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 18,
+            "ypos": 9,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 18,
+            "ypos": 10,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 18,
+            "ypos": 11,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 18,
+            "ypos": 12,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 18,
+            "ypos": 13,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 18,
+            "ypos": 14,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 18,
+            "ypos": 15,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 18,
+            "ypos": 16,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 18,
+            "ypos": 17,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 18,
+            "ypos": 18,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 18,
+            "ypos": 19,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 18,
+            "ypos": 20,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 18,
+            "ypos": 21,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 18,
+            "ypos": 22,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 18,
+            "ypos": 23,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 18,
+            "ypos": 24,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 19,
+            "ypos": 0,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 19,
+            "ypos": 1,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 19,
+            "ypos": 2,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 19,
+            "ypos": 3,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 19,
+            "ypos": 4,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 19,
+            "ypos": 5,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 19,
+            "ypos": 6,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 19,
+            "ypos": 7,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 19,
+            "ypos": 8,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 19,
+            "ypos": 9,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 19,
+            "ypos": 10,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 19,
+            "ypos": 11,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 19,
+            "ypos": 12,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 19,
+            "ypos": 13,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 19,
+            "ypos": 14,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 19,
+            "ypos": 15,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 19,
+            "ypos": 16,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 19,
+            "ypos": 17,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 19,
+            "ypos": 18,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 19,
+            "ypos": 19,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 19,
+            "ypos": 20,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 19,
+            "ypos": 21,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 19,
+            "ypos": 22,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 19,
+            "ypos": 23,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 19,
+            "ypos": 24,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 20,
+            "ypos": 0,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 20,
+            "ypos": 1,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 20,
+            "ypos": 2,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 20,
+            "ypos": 3,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 20,
+            "ypos": 4,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 20,
+            "ypos": 5,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 20,
+            "ypos": 6,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 20,
+            "ypos": 7,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 20,
+            "ypos": 8,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 20,
+            "ypos": 9,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 20,
+            "ypos": 10,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 20,
+            "ypos": 11,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 20,
+            "ypos": 12,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 20,
+            "ypos": 13,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 20,
+            "ypos": 14,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 20,
+            "ypos": 15,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 20,
+            "ypos": 16,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 20,
+            "ypos": 17,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 20,
+            "ypos": 18,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 20,
+            "ypos": 19,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 20,
+            "ypos": 20,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 20,
+            "ypos": 21,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 20,
+            "ypos": 22,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 20,
+            "ypos": 23,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 20,
+            "ypos": 24,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 21,
+            "ypos": 0,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 21,
+            "ypos": 1,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 21,
+            "ypos": 2,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 21,
+            "ypos": 3,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 21,
+            "ypos": 4,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 21,
+            "ypos": 5,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 21,
+            "ypos": 6,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 21,
+            "ypos": 7,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 21,
+            "ypos": 8,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 21,
+            "ypos": 9,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 21,
+            "ypos": 10,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 21,
+            "ypos": 11,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 21,
+            "ypos": 12,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 21,
+            "ypos": 13,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 21,
+            "ypos": 14,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 21,
+            "ypos": 15,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 21,
+            "ypos": 16,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 21,
+            "ypos": 17,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 21,
+            "ypos": 18,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 21,
+            "ypos": 19,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 21,
+            "ypos": 20,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 21,
+            "ypos": 21,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 21,
+            "ypos": 22,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 21,
+            "ypos": 23,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 21,
+            "ypos": 24,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 22,
+            "ypos": 0,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 22,
+            "ypos": 1,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 22,
+            "ypos": 2,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 22,
+            "ypos": 3,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 22,
+            "ypos": 4,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 22,
+            "ypos": 5,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 22,
+            "ypos": 6,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 22,
+            "ypos": 7,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 22,
+            "ypos": 8,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 22,
+            "ypos": 9,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 22,
+            "ypos": 10,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 22,
+            "ypos": 11,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 22,
+            "ypos": 12,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 22,
+            "ypos": 13,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 22,
+            "ypos": 14,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 22,
+            "ypos": 15,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 22,
+            "ypos": 16,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 22,
+            "ypos": 17,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 22,
+            "ypos": 18,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 22,
+            "ypos": 19,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 22,
+            "ypos": 20,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 22,
+            "ypos": 21,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 22,
+            "ypos": 22,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 22,
+            "ypos": 23,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 22,
+            "ypos": 24,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 23,
+            "ypos": 0,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 23,
+            "ypos": 1,
+            "rot": 3
+        },
+        {
+            "type": 1,
+            "xpos": 23,
+            "ypos": 2,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 23,
+            "ypos": 3,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 23,
+            "ypos": 4,
+            "rot": 0
+        },
+        {
+            "type": 3,
+            "xpos": 23,
+            "ypos": 5,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 23,
+            "ypos": 6,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 23,
+            "ypos": 7,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 23,
+            "ypos": 8,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 23,
+            "ypos": 9,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 23,
+            "ypos": 10,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 23,
+            "ypos": 11,
+            "rot": 2
+        },
+        {
+            "type": 0,
+            "xpos": 23,
+            "ypos": 12,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 23,
+            "ypos": 13,
+            "rot": 2
+        },
+        {
+            "type": 2,
+            "xpos": 23,
+            "ypos": 14,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 23,
+            "ypos": 15,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 23,
+            "ypos": 16,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 23,
+            "ypos": 17,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 23,
+            "ypos": 18,
+            "rot": 1
+        },
+        {
+            "type": 3,
+            "xpos": 23,
+            "ypos": 19,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 23,
+            "ypos": 20,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 23,
+            "ypos": 21,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 23,
+            "ypos": 22,
+            "rot": 1
+        },
+        {
+            "type": 2,
+            "xpos": 23,
+            "ypos": 23,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 23,
+            "ypos": 24,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 24,
+            "ypos": 0,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 24,
+            "ypos": 1,
+            "rot": 0
+        },
+        {
+            "type": 1,
+            "xpos": 24,
+            "ypos": 2,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 24,
+            "ypos": 3,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 24,
+            "ypos": 4,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 24,
+            "ypos": 5,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 24,
+            "ypos": 6,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 24,
+            "ypos": 7,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 24,
+            "ypos": 8,
+            "rot": 0
+        },
+        {
+            "type": 2,
+            "xpos": 24,
+            "ypos": 9,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 24,
+            "ypos": 10,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 24,
+            "ypos": 11,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 24,
+            "ypos": 12,
+            "rot": 3
+        },
+        {
+            "type": 3,
+            "xpos": 24,
+            "ypos": 13,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 24,
+            "ypos": 14,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 24,
+            "ypos": 15,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 24,
+            "ypos": 16,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 24,
+            "ypos": 17,
+            "rot": 2
+        },
+        {
+            "type": 1,
+            "xpos": 24,
+            "ypos": 18,
+            "rot": 1
+        },
+        {
+            "type": 1,
+            "xpos": 24,
+            "ypos": 19,
+            "rot": 3
+        },
+        {
+            "type": 0,
+            "xpos": 24,
+            "ypos": 20,
+            "rot": 3
+        },
+        {
+            "type": 2,
+            "xpos": 24,
+            "ypos": 21,
+            "rot": 0
+        },
+        {
+            "type": 0,
+            "xpos": 24,
+            "ypos": 22,
+            "rot": 1
+        },
+        {
+            "type": 0,
+            "xpos": 24,
+            "ypos": 23,
+            "rot": 2
+        },
+        {
+            "type": 3,
+            "xpos": 24,
+            "ypos": 24,
             "rot": 3
         }
     ]
